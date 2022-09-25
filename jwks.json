@@ -1,0 +1,10 @@
+{
+    "keys": [
+        {
+            "kty": "RSA",
+            "e": "AQAB",
+            "kid": "29bc3198-901c-414e-9cf4-2d71ec528463",
+            "n": "qFC0OQhh1i3JHpwEzgxU0mUveAZGxqq9lsROngL8XAx5B_cwkCtTFOYQjshWRo3L8CSSlSL-jyL6GzdUga1nEQ"
+        }
+    ]
+}
