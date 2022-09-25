@@ -1,1 +1,7 @@
-{"keys":[{"kty":"RSA","e":"AQAB","kid":"68513c5f-7726-4ab1-90a2-1c86dc3dfa08","n":"iWlZWWvEbA3q_kjT5HMZdJJi_oQDHuIes2pISQAs-QF5EV7xhY7Mjye13rESV975yvJwxRgjFDrGTUC3jmIihw"},{"kty":"RSA","e":"AQAB","kid":"dc89c3dc-f836-451d-a85e-eb19c6a6294c","n":"rDptCdoZo1iag1kJyQf1xpYgXebzXPk5N_2-QF4CTBUDC0rD2YGCBCxXmgbSpXgO2xYha6xBSCAzAsfQNqmQRQ"}]}
+{
+    "kty": "RSA",
+    "q": "tjdcZ2LovAoM_IHMPaOmS8ekYkHg4qV1FXtn2w-xENc",
+    "e": "AQAB",
+    "kid": "68513c5f-7726-4ab1-90a2-1c86dc3dfa08",
+    "n": "iWlZWWvEbA3q_kjT5HMZdJJi_oQDHuIes2pISQAs-QF5EV7xhY7Mjye13rESV975yvJwxRgjFDrGTUC3jmIihw"
+}
